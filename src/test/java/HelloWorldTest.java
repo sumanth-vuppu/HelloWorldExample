@@ -4,8 +4,8 @@ import org.junit.Test;
 public class HelloWorldTest {
 
     @Test
-    public void ReturnValTest(String Text){
-        Boolean val = HelloWorld.printText(Text);
+    public void ReturnValTest(){
+        Boolean val = HelloWorld.printText("Hello World");
 
         Assert.assertTrue(val.equals(true));
     }

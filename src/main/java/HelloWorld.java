@@ -6,10 +6,6 @@ import com.sun.org.apache.xpath.internal.operations.Bool;
  */
 public class HelloWorld {
 
-    public static void main(String[] args){
-
-        printText("Hello World");
-    }
     public static Boolean printText(String text){
         boolean val = false;
         if(text== "Hello World")
