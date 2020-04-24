@@ -8,11 +8,14 @@ public class HelloWorld {
 
     public static void main(String[] args){
 
-        printText();
+        printText("Hello World");
     }
-    public static Boolean printText(){
-        System.out.println("Hello World");
-        return true;
+    public static Boolean printText(String text){
+        boolean val = false;
+        if(text== "Hello World")
+            val = true;
+
+        return val;
     }
 
 }
