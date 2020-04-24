@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe43fafa-a790-4bea-9d61-4ec52e1162ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HelloWorldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/HelloWorld-1.0-SNAPSHOT-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/HelloWorld-1.0-SNAPSHOT-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/HelloWorld-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/argfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/class-use/HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/javadoc.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/options" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/system-properties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apidocs/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/argfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/class-use/HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/javadoc.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/options" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/system-properties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/apidocs/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/css/maven-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/external.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/images/newwindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/css/maven-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/css/maven-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/external.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/tempdir/images/newwindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HelloWorldTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Bijan\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsR4XUvmXPrnO6Z4c5hLXnmDdt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/AppleAutomation" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HelloWorldTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelloWorldTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe43fafa-a790-4bea-9d61-4ec52e1162ff" name="Default Changelist" comment="" />
+      <created>1585625624436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585625624436</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1586512667920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586512667919" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586144398782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586144398782" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586080584481">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586080584481" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Projects/HelloWorldApplication/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Projects/HelloWorldApplication/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HelloWorld 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/14/docs/api' 'C:/Projects/HelloWorldApplication/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'HelloWorld 1.0-SNAPSHOT API'
