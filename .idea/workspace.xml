@@ -46,7 +46,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.ChangeCharCase">
+  <component name="RunManager" selected="JUnit.ApplicationTest">
     <configuration name="ChangeCharCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qascript.app.ChangeCharCase" />
       <module name="HelloWorld" />
@@ -86,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChangeCharCase" />
         <item itemvalue="JUnit.ApplicationTest" />
+        <item itemvalue="Application.ChangeCharCase" />
         <item itemvalue="JUnit.HelloWorldTest" />
       </list>
     </recent_temporary>
@@ -118,22 +118,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588431593514" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1588435700365">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1588500676729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588435700365" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1588435700365">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588500676729" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1588500676728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588435700365" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1588435700364">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588500676728" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1588500676728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588435700364" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1588435700365">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588500676728" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1588500676728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588435700365" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588500676728" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1586080584481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
